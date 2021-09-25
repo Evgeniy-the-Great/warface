@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/warface/static/css/main.a617e044.chunk.css",
+    "main.js": "/warface/static/js/main.b6ec15db.chunk.js",
+    "main.js.map": "/warface/static/js/main.b6ec15db.chunk.js.map",
+    "runtime-main.js": "/warface/static/js/runtime-main.ff790ddf.js",
+    "runtime-main.js.map": "/warface/static/js/runtime-main.ff790ddf.js.map",
+    "static/js/2.25953c6e.chunk.js": "/warface/static/js/2.25953c6e.chunk.js",
+    "static/js/2.25953c6e.chunk.js.map": "/warface/static/js/2.25953c6e.chunk.js.map",
+    "static/js/3.6017c269.chunk.js": "/warface/static/js/3.6017c269.chunk.js",
+    "static/js/3.6017c269.chunk.js.map": "/warface/static/js/3.6017c269.chunk.js.map",
+    "index.html": "/warface/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/warface/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.25953c6e.chunk.js.LICENSE.txt": "/warface/static/js/2.25953c6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/warface/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff790ddf.js",
+    "static/js/2.25953c6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b6ec15db.chunk.js"
+  ]
+}
